@@ -1,2 +1,2 @@
 # fmm-lu
-Fast direct slover for FMM-like matrices.
+Fast direct solver for FMM-like matrices.
